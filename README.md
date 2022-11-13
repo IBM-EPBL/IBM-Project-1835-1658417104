@@ -3,11 +3,11 @@
 
                                       WEB PHISHING DETECTION
   
-  IBM-project-1835-1658417104
+  😎IBM-project-1835-1658417104👏
   
-  TEAM ID:PNT2022TMID40431
+  ✨TEAM ID:PNT2022TMID40431✨
   
-    TEAM MEMBERS 
+    TEAM MEMBERS 👋
    ⚡ R.Dhanalakshmi
    ⚡ K.Jeevitha
    ⚡ B.Maheswari
@@ -27,10 +27,12 @@
 
   Beneficiaries of this project:😎🚀
  
-  •common social people•Business man who transacts huge amount of money through online •property damage and personal information can be saved 
+  1)common social people
+  2)Business man who transacts huge amount of money through online 
+  3)property damage and personal information can be saved 
 
   
-    DOMAIN:
+    DOMAIN:💻📌
    ✓Machine learning
    ✓Data science
    ✓Data mining algorithm 
