@@ -7,7 +7,7 @@
   
   TEAM ID:PNT2022TMID40431
   
-    TEAM MEMBERS
+    TEAM MEMBERS 
    ⚡ R.Dhanalakshmi
    ⚡ K.Jeevitha
    ⚡ B.Maheswari
@@ -24,6 +24,15 @@
   1) Phishing scams may endup with identity theft,malware infections and data loss.
   2) Large organisations may get trapped in different kinds of trap.
   3) It will lead to information disclosure and property damage.
+
+  Beneficiaries of this project:
+ 
+  •common social people
+  •Business man who transacts huge amount of money through online
+  •property damage and personal information can be saved 
+
   
     DOMAIN:
-    
+   ✓Machine learning
+   ✓Data science
+   ✓Data mining algorithm 
